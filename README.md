@@ -1,4 +1,4 @@
-# Blog post http://marylia.dev/?postID=L-otel-sdk-api
+# Blog post [Otel: SDK & API](http://marylia.dev/?postID=L-otel-sdk-api)
 
 
 🇧🇷 
