@@ -1,5 +1,4 @@
-# blog-sdk
-Blog post http://marylia.dev/?postID=L-otel-sdk-api
+# Blog post http://marylia.dev/?postID=L-otel-sdk-api
 
 
 🇧🇷 
@@ -16,7 +15,7 @@ Para rodar cada uma delas individualmente:
 
 
 🇨🇦
-In this repo, you will find 3 repos, one for each instrumentation mode detailed on http://marylia.dev/?postID=L-otel-sdk-api
+In this repo, you will find 3 folders, one for each instrumentation mode detailed on http://marylia.dev/?postID=L-otel-sdk-api
 
 To run each one individually:
 1. In your terminal, open the folder you want to test (auto-instrumentation, sdk, manual)
